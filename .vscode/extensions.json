@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "ms-ceintl.vscode-language-pack-ja",
+        "ms-vscode-remote.remote-wsl",
+        "usernamehw.errorlens",
+        "ms-python.python",
+        "ms-python.mypy-type-checker",
+        "charliermarsh.ruff",
+        "njpwerner.autodocstring",
+        "wholroyd.jinja",
+    ]
+}
